@@ -2,7 +2,7 @@
 
 ## tl;dr
 
-Script tools is a proposal for a new web API allowing a web pages to expose their JavaScript as tools to a browser-use
+Script tools is a proposal for a new web API allowing web pages to expose their JavaScript as tools to a browser-use
 AI agent. When an agent navigates to a page using this API, the page's tools become available to help it achieve its
 task more directly than by simulating user input over the human interface. A simplifying analogy would be: an MCP server
 implemented by a page's client code.
