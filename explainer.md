@@ -138,7 +138,7 @@ _The current document has registered a script tool that the agent notices may be
  filterTemplates(description)
 ```
 
-_The agent invokes the tool: `filterTemplate("sprint themed, date and time displayed prominently, white background")`.
+_The agent invokes the tool: `filterTemplate("spring themed, date and time displayed prominently, white background")`.
 The UI updates to show a filtered list matching this description._
 
 **Agent**: Ok, the remaining templates should now match your description.
